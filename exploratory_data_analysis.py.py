@@ -140,5 +140,5 @@ plt.close()
 
 df.to_excel("data/clean_dataset.xlsx", index=False)
 
-print("Clean dataset saved successfully.")
-print("Graphs saved successfully inside the images folder.")
+print("Clean dataset saved successfully")
+print("Graphs saved successfully inside the images folder")
